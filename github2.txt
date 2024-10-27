@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Akhil335477/Devops.git
+git branch -M main
+git push -u origin main
+
